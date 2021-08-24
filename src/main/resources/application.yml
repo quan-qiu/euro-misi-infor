@@ -1,0 +1,10 @@
+
+server:
+  port: 9191
+
+spring:
+  datasource:
+    password: Cdmtecno2016!
+    url: jdbc:sqlserver://172.16.200.201\INFORLN:1434;databaseName=erplndb
+    username: sa
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
